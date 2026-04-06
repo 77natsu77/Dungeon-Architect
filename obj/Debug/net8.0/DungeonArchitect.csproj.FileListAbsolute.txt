@@ -1,0 +1,14 @@
+/home/jomiloju/vs code projects/DungeonArchitect/bin/Debug/net8.0/DungeonArchitect
+/home/jomiloju/vs code projects/DungeonArchitect/bin/Debug/net8.0/DungeonArchitect.deps.json
+/home/jomiloju/vs code projects/DungeonArchitect/bin/Debug/net8.0/DungeonArchitect.runtimeconfig.json
+/home/jomiloju/vs code projects/DungeonArchitect/bin/Debug/net8.0/DungeonArchitect.dll
+/home/jomiloju/vs code projects/DungeonArchitect/bin/Debug/net8.0/DungeonArchitect.pdb
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.AssemblyInfoInputs.cache
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.AssemblyInfo.cs
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.csproj.CoreCompileInputs.cache
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.dll
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/refint/DungeonArchitect.dll
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.pdb
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/DungeonArchitect.genruntimeconfig.cache
+/home/jomiloju/vs code projects/DungeonArchitect/obj/Debug/net8.0/ref/DungeonArchitect.dll
